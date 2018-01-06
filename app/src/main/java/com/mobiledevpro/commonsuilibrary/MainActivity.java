@@ -2,7 +2,7 @@ package com.mobiledevpro.commonsuilibrary;
 
 import android.view.View;
 
-import com.cdvdev.commons.activity.BaseActivity;
+import com.mobiledevpro.commons.activity.BaseActivity;
 
 public class MainActivity extends BaseActivity {
 
