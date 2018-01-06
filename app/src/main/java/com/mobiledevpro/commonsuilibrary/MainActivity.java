@@ -1,13 +1,28 @@
 package com.mobiledevpro.commonsuilibrary;
 
-import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
+import android.view.View;
 
-public class MainActivity extends AppCompatActivity {
+import com.cdvdev.commons.activity.BaseActivity;
+
+public class MainActivity extends BaseActivity {
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+    protected int getLayoutResId() {
+        return R.layout.activity_main;
+    }
+
+    @Override
+    protected void populateView(View layoutView) {
+
+    }
+
+    @Override
+    protected void initToolbar() {
+
+    }
+
+    @Override
+    protected void initPresenters() {
+
     }
 }
