@@ -1,5 +1,5 @@
 # commons-ui
-Android publiс library with common classes for UI
+Android publiс library with common classes for UI https://github.com/mobile-dev-pro/commons
 
 [![](https://jitpack.io/v/mobile-dev-pro/commons-ui.svg)](https://jitpack.io/#mobile-dev-pro/commons-ui)
 
