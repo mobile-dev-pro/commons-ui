@@ -34,5 +34,5 @@ ext {
     targetSdkVersion = 27
 
     // dependencies versions
-    supportLibraryVersion = '27.0.2'
+    supportLibraryVersion = '27.1.0'
 }
