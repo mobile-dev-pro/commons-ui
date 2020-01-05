@@ -12,6 +12,11 @@ public class MainActivity extends BaseActivity {
     }
 
     @Override
+    protected boolean isAdjustFontScaleToNormal() {
+        return false;
+    }
+
+    @Override
     protected void populateView(View layoutView) {
 
     }
