@@ -13,7 +13,7 @@ public class MainActivity extends BaseActivity {
 
     @Override
     protected boolean isAdjustFontScaleToNormal() {
-        return false;
+        return true;
     }
 
     @Override
